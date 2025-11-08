@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="primos">
+    <output-path>$PROJECT_DIR$/out/artifacts/primos</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="primos" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: com.itextpdf:itextpdf:5.5.13.3" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="primos/web/Web" />
+    </root>
+  </artifact>
+</component>
